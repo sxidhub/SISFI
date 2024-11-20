@@ -1,0 +1,11 @@
+ENTRADA/SALIDA,NOMBRE,DIA,HORA
+Entrada,Mauricio Hernandez,07/11/2024,18:23:31
+Salida,Mauricio Hernandez,07/11/2024,18:23:45  
+Entrada,Prado Garcia Juan David,07/11/2024,18:25:32
+Salida,Prado Garcia Juan David,07/11/2024,18:25:49  
+Entrada,Said Correa Sam,07/11/2024,18:29:26
+Entrada,Said Correa Sam,07/11/2024,18:33:27
+Entrada,Prado Garcia Juan David,07/11/2024,18:41:45
+Salida,Prado Garcia Juan David,07/11/2024,18:42:01
+Entrada,Mauricio Hernandez,07/11/2024,19:11:36
+Entrada,Mauricio Hernandez,07/11/2024,19:11:36
